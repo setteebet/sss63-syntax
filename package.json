@@ -1,18 +1,18 @@
 {
   "name": "sss63-syntax",
   "theme": "syntax",
-  "version": "0.1.1",
-"description": "ruayดอทคอม✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
-"keywords": [
-"ruayดอทคอม",
-"เว็บแทงหวยรัฐบาล",
-"lottovip click",
-"สมัครเว็บหวย24",
-"เว็บหวยสดราคา"
-],
+  "version": "0.2.0",
+  "description": "ruayดอทคอม✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+  "keywords": [
+    "ruayดอทคอม",
+    "เว็บแทงหวยรัฐบาล",
+    "lottovip click",
+    "สมัครเว็บหวย24",
+    "เว็บหวยสดราคา"
+  ],
   "repository": "https://github.com/setteebet/sss63-syntax.git",
   "license": "MIT",
   "engines": {
-"atom": ">=1.0.0 <2.0.0"
-}
+    "atom": ">=1.0.0 <2.0.0"
+  }
 }
